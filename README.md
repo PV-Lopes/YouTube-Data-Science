@@ -39,7 +39,7 @@ O dataset utilizado contém informações sobre vídeos de canais relacionados a
 
 3.Instale as dependências necessárias executando:
    ```
-   pip install -r requirements.txt
+    pip install -r requirements.txt
    ```
 4.Coloque o arquivo do dataset (youtube_dataset.csv) na mesma pasta do script Python.
 
