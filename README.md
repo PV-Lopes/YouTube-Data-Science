@@ -22,7 +22,7 @@ O dataset utilizado contém informações sobre vídeos de canais relacionados a
 ## **Principais Insights**
 1. **Canais com maior número de visualizações**:
    - O canal "freeCodeCamp.org" lidera em número total de visualizações, seguido por "WsCube Tech".
-   - O gráfico de barras foi usado para visualizar o **Top 10 Canais** em termos de visualizações.
+   - O gráfico de barras foi usado para visualizar o **Top 5 Canais** em termos de visualizações.
 
 2. **Distribuição de engajamento**:
    - A relação entre curtidas e visualizações foi analisada, revelando que vídeos altamente visualizados não necessariamente têm maior engajamento (curtidas e comentários).
@@ -35,7 +35,7 @@ O dataset utilizado contém informações sobre vídeos de canais relacionados a
    ```bash
     git clone https://github.com/seu-usuario/youtube-data-analysis.git
    ```
-2.Certifique-se de ter o Python 3.9+ instalado em sua máquina.
+2.Certifique-se de ter o Python 3.10+ instalado em sua máquina.
 
 3.Instale as dependências necessárias executando:
    ```
