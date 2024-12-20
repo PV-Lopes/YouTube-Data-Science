@@ -34,20 +34,16 @@ O dataset utilizado contém informações sobre vídeos de canais relacionados a
 1. Clone este repositório para sua máquina local:
    ```bash
     git clone https://github.com/seu-usuario/youtube-data-analysis.git
-
+   ```
 2.Certifique-se de ter o Python 3.9+ instalado em sua máquina.
 
 3.Instale as dependências necessárias executando:
-    ```bash
-    pip install -r requirements.txt
-
+   ```
+   pip install -r requirements.txt
+   ```
 4.Coloque o arquivo do dataset (youtube_dataset.csv) na mesma pasta do script Python.
 
-5.Execute o script principal para rodar a análise:
-    ```bash
-    python analysis.py    
-
-6.Após a execução, os gráficos e resultados serão gerados no console ou em uma janela interativa.
+5.Após a execução, os gráficos e resultados serão gerados no console ou em uma janela interativa.
 
 ## **Ferramentas Utilizadas**
 - **Python**: Linguagem de programação principal.
